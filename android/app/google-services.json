@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138144744966",
+    "project_id": "academic-being-352319",
+    "storage_bucket": "academic-being-352319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138144744966:android:791f3041e0a3c177126587",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_firabase_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138144744966-7big0niv7ake133jhd9k9ii2chk7aom6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybrwns67S2CNsk-Xy6NCE6PK7zDoj764"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138144744966-7big0niv7ake133jhd9k9ii2chk7aom6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
